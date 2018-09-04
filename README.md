@@ -15,7 +15,7 @@ Work for calculation the breathing rate in html and js
 Those are the first issues I want to overcome.
 
 **Pending work:**
-1. Make the cropped image hover over the video wherever the mouse goes.
+1. Make the cropped image hover over the video wherever the mouse goes. I am learning this animation part now so just levae this for later. I want to try this before I get the answers directly.
 2. Further steps also include making the canvas element into monochrome and take only 5 frames per second, but those are easy tasks if the remaining is achieved.
 
 That is the whole plan. It is not the penultimate objective but this will give a good grasp on the project.
