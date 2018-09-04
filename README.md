@@ -18,5 +18,5 @@ Those are the first issues I want to overcome.
 1. Make the cropped image hover over the video wherever the mouse goes.
 2. Further steps also include making the canvas element into monochrome and take only 5 frames per second, but those are easy tasks if the remaining is achieved.
 
-That is the whole plan. It is not the penultimate objective but this will make a good grasp on the project.
+That is the whole plan. It is not the penultimate objective but this will give a good grasp on the project.
 There is no real time limit but the sooner the better.
