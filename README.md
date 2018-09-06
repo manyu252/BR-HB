@@ -1,5 +1,5 @@
 # BR-HB
-Work for calculation the breathing rate in html and js
+Work for calculating the breathing rate in html and js
 
 **Objective:** 
 1. To show webcam video in the browser at fullscreen.
