@@ -10,7 +10,7 @@
 		video: true,
 		audio: false
 	}, function(stream) {
-		video.srcObject = vendorURL.createObjectURL(stream);
+		video.srcObject = stream;
 	}, function(error) {
 		alert("Error 404:Camera not found");
 	});    
