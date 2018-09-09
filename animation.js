@@ -12,8 +12,7 @@
 	}, function(stream) {
 		video.src = vendorURL.createObjectURL(stream);
 	}, function(error) {
-		// An error occured
-		// error.code
+		alert("Error 404:Camera not found");
 	});    
 
 	//video.src = "Arduino Programming Tutorial- Visual studio and serial com port communctions (1).mp4";
